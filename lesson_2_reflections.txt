@@ -7,4 +7,21 @@ What value do you think it offers?
 - The staging area groups the files that changed, and alows me to organize my 
 commits.
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+- I can use diff to verify that the changes in the staging area are related.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+- We may need to have several versions at the same time. 
+Branches are useful to keep diferent versions separeted. 
+
+How do the diagrams help you visualize the branch structure?
+- With diagrams you can see the commit that originated a branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+- pro: you don't need to worry with simple merges.
+  con: automatic merged changes may not fit together.
+
 
