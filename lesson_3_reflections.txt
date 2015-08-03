@@ -5,3 +5,10 @@ local?
 Why might you want to always pull changes manually rather than having Git 
 automatically stay up-to-date with your remote repository?
 - This way we can keep our local version stable until we decide to pull changes.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another.
+- Fork: copy of another repository. Can be changed without changing the original.
+  Clone: copy from remote to local. Used to work localy.
+  Branch: parallel version of files. Used when you need more than one version
+at the same time.
