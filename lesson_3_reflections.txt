@@ -12,3 +12,16 @@ When would you use one instead of another.
   Clone: copy from remote to local. Used to work localy.
   Branch: parallel version of files. Used when you need more than one version
 at the same time.
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+- Better performance.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+- I could send the canged files or a patch to an email or forum topic.
+  It could be easier to send the files, but to discuss the changes would be
+harder.
+
+
+
