@@ -23,5 +23,9 @@ and what would be harder?
   It could be easier to send the files, but to discuss the changes would be
 harder.
 
-
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
+- When I need to keep working on the branch and on the master at the same time.
+  With the branch the merge process may be more complicated.
+  Without the branch you need to manage the differences by yourself.
 
